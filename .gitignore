@@ -1,0 +1,11 @@
+# Compiled binaries
+tictactoe
+out
+*.o
+*.dSYM/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
